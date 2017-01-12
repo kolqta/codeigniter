@@ -1,6 +1,6 @@
 <?php
 
 // за проба
-echo "test";
+echo "test - wyw wtora stypka ";
 
 ?>
